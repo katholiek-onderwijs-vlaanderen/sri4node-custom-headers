@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/rodrigouroz/sri4node-custom-headers#readme",
   "devDependencies": {
+    "eslint": "^3.3.0",
     "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "q": "^1.4.1"
   }
 }

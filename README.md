@@ -1,3 +1,5 @@
+# About [![Build Status](https://travis-ci.org/rodrigouroz/sri4node-custom-headers.svg?branch=master)](https://travis-ci.org/rodrigouroz/sri4node-custom-headers)
+
 A module that allows to customize response headers in a [sri4node](https://github.com/dimitrydhondt/sri4node) backend
 
 # Installing

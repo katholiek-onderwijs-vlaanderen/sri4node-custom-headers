@@ -23,7 +23,5 @@
     "eslint": "^3.3.0",
     "mocha": "^3.0.2"
   },
-  "dependencies": {
-    "q": "^1.4.1"
-  }
+  "dependencies": {}
 }
